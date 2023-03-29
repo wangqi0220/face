@@ -1,0 +1,6 @@
+<!--pages/user/user.wxml-->
+<view class='container'>
+    <view class='user'>
+      恭喜你登录成功
+    </view>
+</view>
